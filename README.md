@@ -42,6 +42,7 @@ All URIs start with: `http://localhost:8080/api/v1`
 ### Document endpoints. ***(1 point)***
     - Add to the README file the URI for each endpoint and a description (see example below)
     - This should include **ALL** endpoints, including those from last week. *Note that there is an extra column*
+![unknown_2023 12 12-22 32-ezgif com-video-to-gif-converter](https://github.com/Notsantana/Booking-API-main/assets/70494918/fbdaff1b-a45f-4ca3-89f2-c85346c3583c)
 
 #### Endpoints
 All URIs start with: `http://localhost:8080/api/v1`
